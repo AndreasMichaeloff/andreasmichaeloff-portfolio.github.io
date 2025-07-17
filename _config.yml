@@ -60,7 +60,7 @@ plugins:
 author:
   name   : "Andreas Michaeloff"
   avatar : "/assets/images/IMG_1624.jpeg"
-  bio    : ""Simplicity is the ultimate sophistication." - Leonardo da Vinci "
+  bio    : '"Simplicity is the ultimate sophistication." - Leonardo da Vinci '
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
