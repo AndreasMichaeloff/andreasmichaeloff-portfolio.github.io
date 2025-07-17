@@ -62,30 +62,30 @@ author:
   avatar : "/assets/images/IMG_1624.jpeg"
   bio    : '"Simplicity is the ultimate sophistication." - Leonardo da Vinci '
   links:
-    - label: "Website"
+    # - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://"
-    - label: "Twitter"
+    # - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+      url: "https://github.com/andreasmichaeloff"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://www.instagram.com/andreas.michaeloff/"
 
 footer:
   links:
-    - label: "Twitter"
+    # - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+      url: "https://github.com/andreasmichaeloff"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://www.instagram.com/andreas.michaeloff/?hl=en"
+      url: "https://www.instagram.com/andreas.michaeloff/"
 
 defaults:
   # _posts
