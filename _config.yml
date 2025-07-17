@@ -60,7 +60,7 @@ plugins:
 author:
   name   : "Andreas Michaeloff"
   avatar : "/assets/images/Headshot.jpeg"
-  bio    : "I am Andreas and I am the coolest guy ever."
+  bio    : "I am Andreas and I am the coolest guy ever. Obviously. "
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
