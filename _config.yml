@@ -70,7 +70,7 @@ author:
       url: "https://www.instagram.com/andreas.michaeloff/"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/andreas.michaeloff/"
+      url: "https://www.linkedin.com/in/andreas-michaeloff/"
 
 
 footer:
@@ -83,7 +83,7 @@ footer:
       url: "https://www.instagram.com/andreas.michaeloff/"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/andreas.michaeloff/"
+      url: "https://www.linkedin.com/in/andreas-michaeloff/"
 
 defaults:
   # _posts
