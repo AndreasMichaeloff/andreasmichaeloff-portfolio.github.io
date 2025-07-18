@@ -6,4 +6,4 @@ layout: single
 author_profile: true
 ---
 
-I am a rising senior at Indiana University studying Information Systems, Business Analytics, and Operations Management. I am passionate about data, automation, and a sprinkle of determination to build smarter solutions. 
+Hey! My name is Andreas Michaeloff and I am a rising senior at Indiana University studying Information Systems, Business Analytics, and Operations Management. I am passionate about data, automation, and a sprinkle of determination to build smarter solutions. 
