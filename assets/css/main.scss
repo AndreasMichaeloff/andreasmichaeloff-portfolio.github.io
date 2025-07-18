@@ -1,0 +1,7 @@
+/* Custom avatar styles */
+.author__avatar {
+  width: 200px;          /* Increase the size */
+  height: 200px;         /* Force square shape */
+  border-radius: 0;      /* Remove the rounded corners (circle) */
+  object-fit: cover;     /* Make sure image covers the box without distortion */
+}
